@@ -1,2 +1,2 @@
-youtube-dl==latest
-pafy==latest
+youtube-dl
+pafy
